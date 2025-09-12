@@ -14,8 +14,6 @@ alt="" />
 
 Releasing children from poverty in Jesus' name through backend engineering at Compassion International. I am intrinsically motivated by mastery, to utilize that knowledge in order to make a positive impact in developer and veteran lives through technology.
 
-If you are looking to create a website, but doing so yourself seems too daunting then check out [Porter Web Design](https://porterwebdesign.com). Great quality websites at a fair price. All ongoing maintenance can also be covered if you choose.
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
